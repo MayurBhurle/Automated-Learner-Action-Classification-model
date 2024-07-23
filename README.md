@@ -21,5 +21,6 @@ Attachments:
 Mayur Bhurle,
 Roll No.23M1027,
 M.Tech (2023-25),
-ET IIT Bombay
+Educational Technology
+ IIT Bombay
 
