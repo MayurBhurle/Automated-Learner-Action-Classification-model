@@ -2,7 +2,7 @@ The project "Image Classification using CNN for identifying Learner Actions" was
 ET610 Learning Analytics course project, under the guidance of Prof. Ramkumar Rajendran, IDP in Educational Technology Department, IIT Bombay.
 
 **Problem Statement:**
-In the domain of Educational Technology research scholars collect student interaction data (video recording/screen recording) while the students's interact with the learning platform. 
+In the domain of Educational Technology, research scholars collect student interaction data (video recording/screen recording) while the students's interacts with the learning platform. 
 This data needs to be manually analysed in order to identify at what time the learner performed which action. It is not possible to do this task manually if the sample size 
 is too large.
 
