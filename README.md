@@ -18,8 +18,8 @@ Attachments:
 2) Presentation : The pdf file contains the additional details of the project along with links to some of the raw and data and output generated.
 
 
-Mayur Bhurle
-Roll No.23M1027
-M.Tech (2023-25)
+Mayur Bhurle,
+Roll No.23M1027,
+M.Tech (2023-25),
 ET IIT Bombay
 
