@@ -3,8 +3,7 @@
 1. Automated classification of learner actions into 7 categories using CNN model, achieving 90% accuracy.
 2. Developed an image classification pipeline to extract learner actions from screen recordings, improving
 research efficiency.
-3. The project "Image Classification using CNN for identifying Learner Actions" was done as part of the 
-ET610 Learning Analytics course project, under the guidance of Prof. Ramkumar Rajendran, IDP in Educational Technology Department, IIT Bombay.
+3. This project was done as part of the ET610 Learning Analytics course project, under the guidance of Prof. Ramkumar Rajendran, IDP in Educational Technology Department, IIT Bombay.
 
 **Details:**
 
